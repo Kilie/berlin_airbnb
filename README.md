@@ -12,7 +12,7 @@ The origibal datasets include such information of the listings on Airbnb Berlin 
 This project was created as one course project for the Udacity Data Scientist Nanodegree. 
 
 ## File Description
-This repository contains two files, a README and a Jupyter Notebook file whic contains the Python code written to analyze the data.
+This repository contains two files, a README and a Jupyter Notebook file whicH contains the Python code for analyzing the data.
 
 ## Results
 Some key findings of this project:
