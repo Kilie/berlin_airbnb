@@ -11,7 +11,11 @@ The origibal datasets include such information of the listings on Airbnb Berlin 
 
 >>NumPy, pandas, matplotlib, seaborn, datetime, sklearn.linear_model, sklearn.model_selection, sklearn.metrics, 
 ## Project Motivation
-This project was created as one course project for the Udacity Data Scientist Nanodegree. 
+This project was created as one course project for the Data Scientist Nanodegree from Udacity. Being generally interested in the German lodging market, I decided to analyze Berlin's Airbnb listing data in order to answer the following business questions:
+>1. Did the price increase in the last several years?
+>2. Is it more expensive to stay on the weekend?
+>3. Location, location, location? - What neighbourhood groups are the most expensive to stay in Berlin?
+>4. Predict the rental price.
 
 ## File Description
 This repository contains two files, a README and a Jupyter Notebook file which contains the Python code for the data analysis and modeling.
