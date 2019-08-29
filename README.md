@@ -7,12 +7,14 @@ The origibal datasets include such information of the listings on Airbnb Berlin 
 
 >Jupyter Notebook 6.0.0
 
->Python 3
+>Python 3: 
+
+>>NumPy, pandas, matplotlib, seaborn, datetime, sklearn.linear_model, sklearn.model_selection, sklearn.metrics, 
 ## Project Motivation
 This project was created as one course project for the Udacity Data Scientist Nanodegree. 
 
 ## File Description
-This repository contains two files, a README and a Jupyter Notebook file which contains the Python code for analyzing the data.
+This repository contains two files, a README and a Jupyter Notebook file which contains the Python code for the data analysis and modeling.
 
 ## Results
 Some key findings of this project:
