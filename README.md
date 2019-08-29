@@ -46,5 +46,5 @@ Your help with making this project better is very welcome! To contribute, please
 
 And please make sure to write your commit messages to describe what the commit, when applied, does to the code.
 ## Acknowledgements
-Special thanks should go to ** [Inside Airbnb](http://insideairbnb.com/get-the-data.html)** for providing these neat data to make the world a better place!
+Special thanks should go to **[Inside Airbnb](http://insideairbnb.com/get-the-data.html)** for providing these neat data to make the world a better place!
 
