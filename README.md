@@ -1,22 +1,25 @@
 ## Berlin Airbnb Data (2015-2019)
 The data was obtained from [Inside Airbnb](http://insideairbnb.com/get-the-data.html). 
 
-The origibal datasets include such information of the listings on Airbnb Berlin as compiling dates, host names, host ids, latitudes and longitudes of the properties, dates of the last review, prices, room types, neighborhood groups, neighborhoods, minimum nights etc. The time range is from November 2015 to July 2019.  
+The original datasets include listing information on Airbnb Berlin such as compiling dates, host names, host ids, latitudes and longitudes of the properties, dates of the last review, prices, room types, neighborhood groups, neighborhoods, minimum nights et cetera. The time range of the datasets is from November 2015 to July 2019.  
+
 ## Installation
->Anaconda 3
+> Anaconda 3
 
->Jupyter Notebook 6.0.0
+> Jupyter Notebook 6.0.0
 
->Python 3: 
+> Python 3: 
 
->>NumPy, pandas, matplotlib, seaborn, datetime, sklearn.linear_model, sklearn.model_selection, sklearn.metrics, 
+>> NumPy, pandas, matplotlib, seaborn, datetime, sklearn.linear_model, sklearn.model_selection, sklearn.metrics, 
+
 ## Project Motivation
+
 This project was created as one course project for the Data Scientist Nanodegree program from Udacity. Being generally interested in the German lodging market, I decided to analyze Berlin's Airbnb listing data in order to answer the following business questions:
 
->1. Did the price increase in the last several years?
->2. Is it more expensive to stay on the weekend?
->3. Location, location, location? - What neighbourhood groups are the most expensive to stay in Berlin?
->4. Predict the rental price.
+> 1. Did the price increase in the last several years?
+> 2. Is it more expensive to stay on the weekend?
+> 3. Location, location, location? - What neighbourhood groups are the most expensive to stay in Berlin?
+> 4. Predict the rental price.
 
 ## File Description
 This repository contains two files, a README and a Jupyter Notebook file which contains the Python code for the data analysis and modeling.
