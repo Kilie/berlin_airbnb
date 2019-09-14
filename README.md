@@ -1,5 +1,5 @@
 ## Berlin Airbnb Data (2015-2019)
-The data was obtained from Inside Airbnb (http://insideairbnb.com/get-the-data.html). 
+The data was obtained from [Inside Airbnb](http://insideairbnb.com/get-the-data.html). 
 
 The origibal datasets include such information of the listings on Airbnb Berlin as compiling dates, host names, host ids, latitudes and longitudes of the properties, dates of the last review, prices, room types, neighborhood groups, neighborhoods, minimum nights etc. The time range is from November 2015 to July 2019.  
 ## Installation
